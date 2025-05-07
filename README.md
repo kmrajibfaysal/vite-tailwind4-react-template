@@ -1,0 +1,1 @@
+Vite, Tailwind 4 , React template (trimed)
